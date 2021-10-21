@@ -1,0 +1,27 @@
+.lore-main-wrapper{
+    width: 100%;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.lore-inner-wrapper{
+    width: 90%;
+    margin: auto;
+}
+
+.lore-inner-wrapper p{
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.lore-inner-wrapper h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+
+.back-btn{
+    padding: 5px 15px;    
+    margin-bottom: 20px;
+    cursor: pointer;
+}

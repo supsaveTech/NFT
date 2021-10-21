@@ -1,0 +1,35 @@
+{
+      "tokenId": "22",
+      "name": "Goose Punk #22",
+      "image": "https://temp.com/22.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "AQUA"
+            },
+            {
+                  "trait_type": "SHIRT",
+                  "value": "TYE DIE"
+            },
+            {
+                  "trait_type": "GRAPHICS",
+                  "value": "CHARACTER 2"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "PURPLE BEAK"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "BROWN"
+            },
+            {
+                  "trait_type": "HAT",
+                  "value": "GREEN"
+            },
+            {
+                  "trait_type": "SHOULDER ACCESSORY",
+                  "value": "LILE"
+            }
+      ]
+}

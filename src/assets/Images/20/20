@@ -1,0 +1,31 @@
+{
+      "tokenId": "20",
+      "name": "Goose Punk #20",
+      "image": "https://temp.com/20.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "CREAM"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "MAGENTA"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "GREEN DUST"
+            },
+            {
+                  "trait_type": "HAT",
+                  "value": "DARK AQUA"
+            },
+            {
+                  "trait_type": "GOGGLES",
+                  "value": "NEON GREEEN"
+            },
+            {
+                  "trait_type": "JACKET",
+                  "value": "JADE BROWN"
+            }
+      ]
+}

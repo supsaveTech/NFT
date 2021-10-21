@@ -1,0 +1,27 @@
+{
+      "tokenId": "38",
+      "name": "Goose Punk #38",
+      "image": "https://temp.com/38.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "RAYS 07"
+            },
+            {
+                  "trait_type": "SHIRT",
+                  "value": "GREEN MILITARY"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "CREAM"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "AQUA"
+            },
+            {
+                  "trait_type": "HAT",
+                  "value": "MILITARY GREEEN"
+            }
+      ]
+}

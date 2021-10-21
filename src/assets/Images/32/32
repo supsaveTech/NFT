@@ -1,0 +1,43 @@
+{
+      "tokenId": "32",
+      "name": "Goose Punk #32",
+      "image": "https://temp.com/32.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "RAYS 05"
+            },
+            {
+                  "trait_type": "TOP",
+                  "value": "ROSE"
+            },
+            {
+                  "trait_type": "SHIRT",
+                  "value": "BEIGE CAMO BLACK AND WHITE"
+            },
+            {
+                  "trait_type": "GRAPHICS",
+                  "value": "CAT BUNNY"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "GRAY"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "LILE"
+            },
+            {
+                  "trait_type": "HAIRSTYLES",
+                  "value": "NEON YELLOW"
+            },
+            {
+                  "trait_type": "GOGGLES",
+                  "value": "LILE"
+            },
+            {
+                  "trait_type": "JACKET",
+                  "value": "GRAY"
+            }
+      ]
+}

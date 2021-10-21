@@ -1,0 +1,31 @@
+{
+      "tokenId": "28",
+      "name": "Goose Punk #28",
+      "image": "https://temp.com/28.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "LIGHT BLUE GRAY-31"
+            },
+            {
+                  "trait_type": "SHIRT",
+                  "value": "MINT"
+            },
+            {
+                  "trait_type": "GRAPHICS",
+                  "value": "TORCH"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "LIGHT ORANGE BEAK"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "DARK PURPLE"
+            },
+            {
+                  "trait_type": "HAIRSTYLES",
+                  "value": "RED"
+            }
+      ]
+}

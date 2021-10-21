@@ -1,0 +1,361 @@
+.roadmap-main-wrapper {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.roadmap-inner-wrapper {
+  width: 90%;
+  margin: auto;
+}
+
+.roadmap-inner {
+  width: 80%;
+}
+
+.roadmap-inner-wrapper h1 {
+  color: #fff;
+  font-size: 46px;
+  font-family: "Roboto", sans-serif;
+}
+
+.roadmap1 {
+  margin-top: 100px;
+  border: 2px dashed #01d3ec;
+  border-left: none;
+  height: 400px;
+  position: relative;
+}
+
+.roadmap-point1 {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+}
+
+.roadmap-text1 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  top: 30px;
+  left: -10px;
+}
+
+.roadmap-point2 {
+  position: absolute;
+  top: -10px;
+  left: 50%;
+}
+
+.roadmap-text2 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  top: -60px;
+  left: 44%;
+}
+
+.roadmap-point3 {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+.roadmap-text3 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  top: 10px;
+  right: -180px;
+}
+
+.roadmap-point4 {
+  position: absolute;
+  top: 50%;
+  right: -10px;
+}
+
+.roadmap-text4 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  top: 50%;
+  right: 30px;
+}
+
+.roadmap-point5 {
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+}
+
+.roadmap-text5 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  bottom: -50px;
+  right: -200px;
+}
+
+.roadmap-point6 {
+  position: absolute;
+  bottom: -10px;
+  right: 33.3%;
+}
+
+.roadmap-text6 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  bottom: 30px;
+  right: 25%;
+}
+
+.roadmap-point7 {
+  position: absolute;
+  bottom: -10px;
+  left: 33.3%;
+}
+
+.roadmap-text7 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  bottom: -60px;
+  left: 25%;
+}
+
+.roadmap-point8 {
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+}
+
+.roadmap-text8 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  bottom: 30px;
+  left: -10px;
+}
+
+.roadmap2 {
+  height: 400px;
+  width: 90%;
+  border: 2px dashed #01d3ec;
+  border-right: none;
+  border-top: none;
+  position: relative;
+}
+
+.roadmap-pointt1 {
+  position: absolute;
+  top: 50%;
+  left: -10px;
+}
+
+.roadmap-textt1 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 50%;
+}
+
+.roadmap-pointt2 {
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+}
+
+.roadmap-textt2 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  left: -10px;
+  bottom: -60px;
+}
+
+.roadmap-pointt3 {
+  position: absolute;
+  bottom: -10px;
+  left: 33.3%;
+}
+
+.roadmap-textt3 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  left: 29%;
+  bottom: 30px;
+}
+
+.roadmap-pointt4 {
+  position: absolute;
+  bottom: -10px;
+  right: 33.3%;
+}
+
+.roadmap-textt4 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  right: 25%;
+  bottom: -60px;
+}
+
+.roadmap-pointt5 {
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+}
+
+.roadmap-textt5 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  right: -50px;
+  bottom: 30px;
+}
+
+.roadmap3 {
+  height: 400px;
+  width: 90%;
+  border: 2px dashed #01d3ec;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  position: relative;
+}
+
+.roadmap-pointtt1 {
+  position: absolute;
+  top: 50%;
+  right: -10px;
+}
+
+.roadmap-texttt1 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  right: 30px;
+  top: 50%;
+}
+
+.roadmap-pointtt2 {
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+}
+
+.roadmap-texttt2 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  right: 30px;
+  bottom: -10px;
+}
+
+.roadmap-pointtt3 {
+  position: absolute;
+  bottom: -10px;
+  right: 50%;
+}
+
+.roadmap-texttt3 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  right: 41%;
+  bottom: 30px;
+}
+
+.roadmap-pointtt4 {
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+}
+
+.roadmap-texttt4 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  bottom: -50px;
+}
+
+@media (max-width: 1068px) {
+  .roadmap-text3 {
+    top: 10px;
+    right: 10px;
+  }
+  .roadmap-text5 {
+    bottom: -50px;
+    right: 10px;
+  }
+  .roadmap-textt5 {
+    right: 0px;
+    bottom: 60px;
+  }
+  .roadmap-texttt1 {
+    right: 30px;
+    top: 50%;
+  }
+  .roadmap-texttt2 {
+    right: 30px;
+    bottom: -10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .roadmap-inner-wrapper h1 {
+    font-size: 26px;
+  }
+  .roadmap-text2 {
+    top: -60px;
+    left: 26%;
+  }
+  .roadmap-text3 {
+    top: 10px;
+    right: -70px;
+  }
+  .roadmap-text5 {
+    bottom: -50px;
+    right: -70px;
+  }
+  .roadmap-text6 {
+    bottom: 80px;
+    right: 10px;
+  }
+  .roadmap-text7 {
+    bottom: -100px;
+    left: 10%;
+  }
+  .roadmap-textt3 {
+    left: 15%;
+    bottom: 30px;
+  }
+  .roadmap-textt4 {
+    right: -40px;
+    bottom: -60px;
+  }
+  .roadmap-main-wrapper{
+    padding-top: 30px;
+  }
+}

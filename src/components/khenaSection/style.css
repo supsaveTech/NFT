@@ -1,0 +1,29 @@
+.main-wrapper {
+  width: 100%;
+  margin: 100px 0;
+  color: white;
+  font-family: inherit;
+}
+.inner_wrapper {
+  width: 90%;
+  margin: auto;
+}
+.inner_content h2 {
+  font-size: 26px;
+  margin-bottom: 40px;
+}
+.inner_content p {
+  margin: 20px 0;
+  font-weight: 400;
+}
+.inner_content a {
+  color: #01d3ec;
+  margin-left: 10px;
+  /* font-size: 20px; */
+}
+
+@media (min-width: 768px) {
+  .inner_content h2 {
+    font-size: 46px;
+  }
+}

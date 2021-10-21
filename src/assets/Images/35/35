@@ -1,0 +1,39 @@
+{
+      "tokenId": "35",
+      "name": "Goose Punk #35",
+      "image": "https://temp.com/35.png",
+      "attributes": [
+            {
+                  "trait_type": "BACKGROUNDS",
+                  "value": "LIGHT JADE"
+            },
+            {
+                  "trait_type": "SHIRT",
+                  "value": "LIGHT PINK"
+            },
+            {
+                  "trait_type": "HEAD",
+                  "value": "YELLOW"
+            },
+            {
+                  "trait_type": "EYES",
+                  "value": "ORANGE"
+            },
+            {
+                  "trait_type": "GOGGLES",
+                  "value": "YELLOW"
+            },
+            {
+                  "trait_type": "HAT",
+                  "value": "RED"
+            },
+            {
+                  "trait_type": "ACCESSORIES",
+                  "value": "LILE"
+            },
+            {
+                  "trait_type": "ARMS",
+                  "value": "MILITARY GREEN"
+            }
+      ]
+}
